@@ -1,4 +1,5 @@
-files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\index.html
+files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\index.php
+files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\css\\style.css
 bookmarks_show_mode: 0
 view_main_toolbar: 1
 bookmarks_filename_mode: 0
@@ -12,6 +13,8 @@ bmarksearchmode: 0
 fb_show_hidden_f: 0
 fb_viewmode: 0
 spell_lang: en
+searchlist: 75
+searchlist: 0.75
 searchlist: Gabe Hart - Homepage_files
 display_right_margin: 0
 convertcolumn_horizontally: 0
@@ -23,6 +26,8 @@ fb_focus_follow: 1
 c2e.convert_xml: 1
 c2e.convert_symbol: 0
 editor_tab_width: 2
+replacelist: 85
+replacelist: 0.85
 replacelist: images
 show_mbhl: 1
 fb_show_backup_f: 0
