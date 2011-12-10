@@ -8,11 +8,13 @@ e2c.convert_symbol: 0
 view_blocks: 1
 last_filefilter: 
 spell_check_default: 0
-opendir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs
+opendir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/css
 bmarksearchmode: 0
 fb_show_hidden_f: 0
 fb_viewmode: 0
 spell_lang: en
+searchlist: imgLnk
+searchlist: +
 searchlist: 75
 searchlist: 0.75
 searchlist: Gabe Hart - Homepage_files
@@ -53,5 +55,8 @@ e2c.convert_special: 0
 savedir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs
 spell_insert_entities: 0
 name: RebekkahAndGabe
-recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/index.html
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/css/style.css
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/index.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/GradSchoolSite/Gabe%20Hart%20-%20Homepage.htm
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/GradSchoolSite/Gabe%20Hart%20-%20About%20Me.htm
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/index.html
