@@ -5,7 +5,8 @@ files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\scripts\\utils.php
 files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\temp_meas.txt
 files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\scripts\\jquery.js
 files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Welcome\\test.html
-files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Welcome\\test2.html
+files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Welcome\\index.php
+files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\TheEvent\\index.php
 bookmarks_show_mode: 0
 view_main_toolbar: 1
 bookmarks_filename_mode: 0
@@ -14,11 +15,12 @@ e2c.convert_symbol: 0
 view_blocks: 1
 last_filefilter: 
 spell_check_default: 0
-opendir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Welcome
+opendir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts
 bmarksearchmode: 0
 fb_show_hidden_f: 0
 fb_viewmode: 0
 spell_lang: en
+searchlist: float
 searchlist: imgLnk
 searchlist: +
 searchlist: 75
@@ -61,12 +63,14 @@ e2c.convert_special: 0
 savedir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts
 spell_insert_entities: 0
 name: RebekkahAndGabe
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts/registry.php
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/TheEvent/index.php
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Welcome/index.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Welcome/test2.html
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Welcome/test.html
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts/jquery.js
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/temp_meas.txt
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts/utils.php
-recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts/registry.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/css/style.css
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/index.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts/local_jquery.js
