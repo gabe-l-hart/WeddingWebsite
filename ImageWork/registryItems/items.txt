@@ -1,0 +1,96 @@
+** Registry Items
+
+name: Villa Antonelda
+link: http://www.vrbo.com/141224
+num: 11
+price: $50
+full:
+Charming two-story, two bedroom, two bath villa in the gated community of Hermosa Heights Village with a great view of the Pacific and Papagayo Bay. The community includes a refreshing swimming pool just steps from the villa, shops, restaurants, movie theater, sports bar, spa, game room, and other activities for your convenience and enjoyment. Located in the heart of Playa Hermosa, this is one of the most beautiful resort communities in Guanacaste province. Just minutes to the beach, nightlife and many fulfilling activities, this Costa Rican rental property is sure to make your vacation comfortable and enjoyable.
+
+
+name: Blue Dolphin Tours
+link: http://bluedolphinsailing.com/
+num: 2
+price: $75
+photo: blueDolphin
+full:
+The Blue Dolphin is a custom built 40-foot sailing catamaran specifically designed to be the ultimate in day charters. Moored in the bay off Playa Tamarindo, the boat is packed with amenities including trampolines for sunning and lounging, a shaded main salon, fresh water shower, a clean restroom, well maintained snorkel gear, kayaks and a stairway to the sea. With plenty of space to relax and an open boat layout, our guests can escape to their own space, if desired, while keeping an eye on the action.
+
+
+name: Rincon de la Vieja National Park
+link: http://www.costarica-nationalparks.com/rincondelaviejanationalpark.html
+num: 2
+price: 10
+photo: rinconsantamaria
+full:
+Rincon de la Vieja National Park is a still relatively undiscovered gem of the Costa Rican interior. Within it, is the active Volcan Rincon de la Vieja, an andesitic stratovolcano, one of 5 volcanos in the Cordillera de Guanacaste (Guanacaste Mountain Range). The highest peak of Rincon de la Vieja stands at 1916 meters above sea level. 
+
+
+~~~
+
+name: Whitewater Tubing on Rio Negro
+link: http://www.guachipelin.com/en/rio-negro-tubing-adventure.html
+num: 2
+price: 50
+photo: tubing1
+full: One of the most unique river adventures in Costa Rica is this drip down the Rio Negro aboard a large, specially designed inner tube. The trip is wet and wild and even includes a bit of horseback riding to the put-in point. Be forewarned: When the rains are heavy, the river swells and the trip can be somewhat harrowing.
+
+
+name: Snorkeling with Ocotal Diving
+link: www.ocotaldiving.com
+num: 2
+price: 50
+photo: snorkeling
+full: Experience the ultimate diving adventure, at one of the best resorts, with massive schools of fish, rays, jack's, whale sharks, giant mantas, sea turtles, bull sharks, white tip sharks, dolphins, and more...
+
+
+name: Dinner at La Lagune del Cocodrilo
+link: http://www.lalagunadelcocodrilo.com/
+num: 1
+price: 60
+photo: laguna
+full:
+Yet another option for fine dining and fusion cuisine, this small open-air restaurant has impressed me every time I've eaten here. When weather permits, more tables are set up under the trees in their beachfront garden area. Beautiful presentations and creative use of ingredients are the norm. The menu changes regularly, but the chefs always focus on using on the freshest and best ingredients available. One of the best options is the nightly tasting menu, which will feature anywhere from 5 to 7 courses, including dessert (which is always excellent here). The restaurant also has a good wine list, and they keep their bottles properly cool, to compensate for the often unforgiving heat of Guanacaste.
+
+
+name: Monteverde Vacation Rental
+link: http://www.vrbo.com/360208
+num: 10
+price: 50
+photo: monteverdeVRBO
+full:
+The Zabala house is nestled in a lush organic coffee farm called Finca Flor Mar. This 100 acre farm produces organic Arabica coffee, plantains, bananas, mangos, limes, starfruit, & avocados. 
+
+
+name: Monteverde Cloud Forest
+link: http://www.monteverdeinfo.com/monteverde.htm
+num: 2
+price: 35
+photo:
+full:
+The Monteverde Cloud Forest Reserve will astound visitors with its beauty, bounty and great amount biodiversity. Wind-sculpted elfin woodlands give way to rainforests where tall trees – festooned with orchids, bromeliads, ferns, vines and mosses – rise high into the sky.
+
+name: Sky Walk in Santa Elena Cloud Forest
+link: http://www.skyadventures.travel/Monteverde_En/Sky_Walk.html
+num: 2
+price: 30
+photo: skywalk
+full:
+Half way between the town of Santa Elena and the Santa Elena Preserve the Sky Walk is located: This complex use trails, suspension bridges for a more tranquil introduction of the flora and fauna of the forest canopy, constructed within the cloud forest. It allows a vision of the forest from a different perspective which starts with a walk on the ground taking you up to explore the treetops, a hardly discovered habitat, called the “canopy” with a naturalist guide. Also discover the night wildlife at our Sky Walk Night Tour.
+
+
+name: Tabacon Hot Springs
+link: http://www.tabacon.com/costa-rica-resort-thermal-springs-1.html
+num: 2
+price: 45
+photo:
+full:
+This is the most extensive and luxurious pot to soak your tired bones. It is part of the Tabacon Grand Spa Thermal Resort, but visitors are welcome. Pools of varying sizes are spread among almost laughably lush gardens. Each of these pools is fed by warm natural springs. The centerpiece of this layout is a large, warm, spring-fed swimming pool with a waterslide, a swim-up bar, and a great view of the Arenal Volcano.
+
+name: Dinner at Sofia
+link:
+num: 1
+price: 40
+photo:
+full:
+In a pretty setting, with picture windows looking out onto gardens, this restaurant serves excellent, contemporary takes on Costa Rican and Latin American classics.
