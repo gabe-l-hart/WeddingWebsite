@@ -1,9 +1,8 @@
-files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\css\\style.css
-files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\scripts\\utils.php
-files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Colorado\\index.php
+files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Registry\\css\\registry.css
 files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\TheEvent\\index.php
 files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Welcome\\index.php
-files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Registry\\css\\registry.css
+files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\css\\style.css
+files: C:\\Users\\gabe\\Projects\\WeddingWebsite\\htdocs\\Colorado\\index.php
 bookmarks_show_mode: 0
 view_main_toolbar: 1
 bookmarks_filename_mode: 0
@@ -12,7 +11,7 @@ e2c.convert_symbol: 0
 view_blocks: 1
 last_filefilter: 
 spell_check_default: 0
-opendir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Registry/css
+opendir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Colorado
 bmarksearchmode: 0
 fb_show_hidden_f: 0
 fb_viewmode: 0
@@ -63,15 +62,15 @@ outputb_show_all_output: 0
 snippets_show_as_menu: 1
 view_line_numbers: 1
 e2c.convert_special: 0
-savedir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/css
+savedir: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Welcome
 spell_insert_entities: 0
 name: RebekkahAndGabe
-recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Registry/css/registry.css
-recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Welcome/index.php
-recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/TheEvent/index.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Colorado/index.php
-recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts/utils.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/css/style.css
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/TheEvent/index.php
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Welcome/index.php
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/scripts/utils.php
+recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Registry/css/registry.css
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/index.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Registry/index.php
 recent_files: file:///C:/Users/gabe/Projects/WeddingWebsite/htdocs/Registry/scripts/registry.php
